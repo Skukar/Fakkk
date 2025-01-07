@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Skukar/Fakkk/main/"
+    REPO="https://raw.githubusercontent.com/Skukar/Fakkk/main"
 
 ####
 start=$(date +%s)
